@@ -3,5 +3,5 @@
 - feature-A
 - fix-B
 - feature-C
-- Test Issue
+- Close Issue
 
